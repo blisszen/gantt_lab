@@ -1,0 +1,1 @@
+hdiutil create -volname "Gantt Lab" -srcfolder "Gantt Lab.app" -ov -format UDZO "GanttLab.dmg"
